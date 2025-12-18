@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-
+from colorama import Fore, Style
 df = pd.read_csv('books.csv')
 
 
@@ -21,16 +21,22 @@ def recommend_books(title, df=df, cosine_sim=cosine_sim):
     sim_scores = list(enumerate(cosine_sim[idx]))
     sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
     sim_scores = sim_scores[1:6]
-    recommended_books = [{'TITLE': df['TITLE'].iloc[i[0]], 
-                          'DESCRIPTION': df['DESCRIPTION'].iloc[i[0]]} for i in sim_scores]
+    recommended_books = [{'TITLE': df['TITLE'].iloc[i],
+                          'AUTHOR': df['AUTHOR'].iloc[i],
+                          'YEAR': df['YEAR'].iloc[i],
+                          'GENRE': df['GENRE'].iloc[i],
+                          'SCORE': round(score * 100, 2),
+                          'DESCRIPTION': df['DESCRIPTION'].iloc[i]
+                          }
+                            for i, score in sim_scores]
     return recommended_books
 
-user_input = input("\nIngresa el titulo de tu libro favorito: ")
+user_input = input(Fore.RED + "\nIngresa el titulo de tu libro favorito: " + Style.RESET_ALL)
 recs = recommend_books(user_input)
 
 if recs:
     print(f"\nLibros similares a '{user_input}':\n")
     for i, book in enumerate(recs, 1):
-        print(f"{i}. {book['TITLE']}\n  {book['DESCRIPTION']}\n")
+        print(f"{i}. {Fore.LIGHTMAGENTA_EX + book['TITLE'] + Style.RESET_ALL}{f' ({book['YEAR']})'}{f'- {Fore.GREEN + book['GENRE'] + Style.RESET_ALL}'}{f' by {Fore.BLUE +book['AUTHOR'] + Style.RESET_ALL}'}{""}\n  {book['DESCRIPTION']}\n\n{'  Similarity Score: ' + Fore.YELLOW + str(book['SCORE']) + '%' + Style.RESET_ALL}\n")
 else:
     print(f"Lo siento, el libro {user_input} no se encontró en la base de datos.")
