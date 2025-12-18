@@ -1,0 +1,1 @@
+python3 -c "import pandas, sklearn; print('pandas y sklearn OK')"
