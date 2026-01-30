@@ -73,8 +73,27 @@ Cosine similarity measures the angle between two vectors, not their magnitude:
 This makes it ideal for comparing text documents of different lengths.
 
 ⸻
+4. Realistic Similarity Scoring
 
-4. Recommendation Logic
+Raw cosine similarity values are not directly user-friendly.
+Instead of forcing the top recommendation to always be 100%, the system applies soft normalization:
+	•	Scores are scaled for readability
+	•	An upper cap is applied to avoid artificial “perfect matches”
+	•	This reflects the approximate and subjective nature of literary similarity
+
+The result is a score that feels honest and interpretable, not inflated.
+⸻
+5. Semantic Match Labels
+
+Each recommendation includes a semantic interpretation layer based on its similarity score:
+	•	Very strong thematic match
+	•	Strong thematic overlap
+	•	Moderate similarity
+	•	Loose conceptual connection
+
+These labels help translate numeric similarity into intuitive, human-readable insight.
+⸻
+6. Recommendation Logic
 
 When a user inputs a book title:
 	1.	The title is converted to lowercase to allow case-insensitive matching
@@ -85,13 +104,21 @@ When a user inputs a book title:
 
 Each recommendation includes a Similarity Score, calculated as:
 
-score_percentage = round(score * 100, 2)
+        normalized_score = round((score / max_score) * 100, 2)
+        if normalized_score >= 75:
+            label = 'Very strong thematic match'
+        elif normalized_score >= 50:
+            label = 'Strong thematic overlap'
+        elif normalized_score >= 30:
+            label = 'Moderate similarity'
+        else:
+            label = 'Loose conceptual connection'
 
 This transforms a mathematical similarity value into an interpretable percentage.
 
 ⸻
 
-5. Terminal Interface & Visualization
+7. Terminal Interface & Visualization
 
 The user interacts with the system through the terminal:
 
