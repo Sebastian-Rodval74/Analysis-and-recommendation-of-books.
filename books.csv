@@ -1,35 +1,103 @@
 TITLE,AUTHOR,GENRE,YEAR,DESCRIPTION
-Dune,Frank Herbert,Science Fiction,1965,Un duro planeta desértico donde la ecología la religión la política y el poder chocan en torno al control de la especia la sustancia más valiosa del universo.
-1984,George Orwell,Dystopia,1949,Una visión sombría de un estado totalitario definido por la vigilancia masiva la propaganda el control psicológico y la destrucción del pensamiento individual.
-Shogun,James Clavell,Historical Fiction,1975,Un choque de culturas entre Oriente y Occidente mientras un marinero europeo navega por el honor samurái la política feudal y las luchas de poder en el Japón de Tokugawa.
-War and Peace,Leo Tolstoy,Classic,1869,Una vasta exploración de la guerra la historia la filosofía y el destino personal en el contexto de la sociedad rusa durante las invasiones napoleónicas.
-The Hobbit,J.R.R. Tolkien,Fantasy,1937,Un héroe reacio se ve arrastrado a un viaje de dragones tesoros y valor a través de la Tierra Media descubriendo coraje y amistad en el camino.
-The Way of Kings,Brandon Sanderson,Fantasy,2010,Una épica historia de guerra liderazgo honor y personas rotas que encuentran propósito en un mundo devastado por tormentas gobernado por poderes antiguos.
-Napoleon a Life,Andrew Roberts,Biography,2014,Un retrato profundamente investigado de Napoleón Bonaparte examinando su genio militar ambición política e impacto duradero en Europa.
-Game of Thrones,George R.R. Martin,Fantasy,1996,Primer libro de cancion de fuego y hielo Una brutal lucha por el poder entre casas nobles donde la política la traición y la ambición se desarrollan en un mundo medieval moralmente complejo.
-Clash of Kings,George R.R. Martin,Fantasy,1998,Segundo libro de cancion de fuego y hielo Un reino se fractura en guerra civil mientras surgen reyes rivales las alianzas se rompen y el costo del poder se vuelve cada vez más sangriento.
-Storm of Swords,George R.R. Martin,Fantasy,2000,Tercer libro de cancion de fuego y hielo Un punto de inflexión de guerra y traición marcado por consecuencias impactantes lealtades cambiantes y el colapso de viejas certezas.
-Storm of War,Andrew Roberts,History,2009,Una narrativa completa de la Segunda Guerra Mundial centrada en la estrategia el liderazgo las decisiones y las consecuencias globales de la guerra total.
-The Three Body Problem,Cixin Liu,Science Fiction,2008,Una exploración alucinante del primer contacto la incertidumbre científica y el lugar de la humanidad en un universo hostil e indiferente.
-Skunk Works,Ben Rich,Non-Fiction,1994,Un relato interno de la innovación aeroespacial secreta detallando cómo se desarrollaron aviones de vanguardia bajo extrema presión y confidencialidad.
-Hyperion,Dan Simmons,Science Fiction,1989,Una épica ciencia ficción con múltiples peregrinos cuyas historias se entrelazan con el tiempo la fe y una misteriosa entidad alienígena.
-The Fall of Hyperion,Dan Simmons,Science Fiction,1990,La continuacion de hyperion que amplía el alcance hacia la política galáctica la guerra y el destino mientras la humanidad enfrenta fuerzas más allá de su control.
-Oppenheimer,Ray Monk,Biography,2012,Una biografía intelectual matizada de J. Robert Oppenheimer que explora la ciencia la moralidad la ambición y la carga de crear la bomba atómica.
-Homo Sapiens,Yuval Noah Harari,Non-Fiction,2011,Una narrativa completa de la historia humana desde la prehistoria hasta el presente examinando cómo la biología la cultura y la tecnología moldearon nuestra especie.
-Homo Deus,Yuval Noah Harari,Non-Fiction,2015,Una exploración del futuro de la humanidad considerando los avances tecnológicos la inteligencia artificial y el potencial de los humanos para trascender sus limitaciones biológicas.
-La Catedral del Mar,Ildefonso Falcones,Historical Fiction,2006,Una narrativa ricamente detallada ambientada en la Barcelona medieval siguiendo el viaje hacia la libertad de un siervo en el contexto de la construcción de la gran catedral de la ciudad.
-The Dark Forest,Cixin Liu,Science Fiction,2008,La secuela de The Three-Body Problem profundizando en civilizaciones cósmicas amenazas existenciales y la lucha de la humanidad por sobrevivir en un universo hostil.
-Death’s End,Cixin Liu,Science Fiction,2010,El volumen final de la trilogía de The Three-Body problem que explora el destino último de la humanidad y el universo en medio de tecnologías avanzadas y conflictos interestelares.
-Metro 2033,Dmitry Glukhovsky,Science Fiction,2005,Una historia post-apocalíptica ambientada en el metro de Moscú donde los supervivientes enfrentan criaturas mutantes facciones políticas y la lucha por la esperanza en un mundo oscuro.
-Jo Ramirez Memoirs of a Racing Man,Jo Ramirez,Biography,2015,La vida de Jo Ramirez relatando su camino desde orígenes humildes hasta convertirse en una figura clave en la Fórmula 1 y sus reflexiones sobre el deporte.
-La bailarina de Auschwitz,Edith Eger,Biography,2019,La inspiradora historia de supervivencia y resiliencia de Edith Eger desde su juventud como bailarina hasta su tiempo en Auschwitz y su vida posterior como terapeuta.
-Ender's Game,Orson Scott Card,Science Fiction,1985,Un joven prodigio es entrenado en una escuela militar espacial para liderar la defensa de la Tierra contra una amenaza alienígena inminente poniendo a prueba su ingenio estrategia y moralidad.
-Life of pi,Yann Martel,Fiction,2001,La extraordinaria aventura de un joven náufrago que sobrevive en un bote salvavidas con un tigre de Bengala explorando temas de fe supervivencia y la naturaleza de la realidad.
-The martian,Andy Weir,Science Fiction,2011,Un astronauta queda varado en Marte y debe usar su ingenio ciencia y determinación para sobrevivir mientras espera un rescate improbable.
-Leviathan Wakes,James S.A. Corey,Science Fiction,2011,El primer libro de la serie The Expanse que mezcla misterio político y aventura en un futuro donde la humanidad ha colonizado el sistema solar.
-The lord of the rings,J.R.R. Tolkien,Fantasy,1954,Una épica aventura de amistad sacrificio y la lucha entre el bien y el mal en la Tierra Media mientras un grupo diverso emprende una misión para destruir un anillo poderoso.
-Lord of the flies,William Golding,Fiction,1954,Un grupo de niños varados en una isla desierta lucha por sobrevivir y establecer el orden solo para ver cómo la civilización se desmorona en caos y barbarie.
-The silence of the lambs,Thomas Harris,Thriller,1988,Un thriller psicológico que sigue a una joven agente del FBI mientras busca la ayuda de un brillante pero peligroso asesino en serie para capturar a otro asesino en serie.
-Un mundo feliz,Aldous Huxley,Dystopia,1932,Una visión inquietante de una sociedad futura donde la tecnología el control social y la manipulación genética crean una aparente utopía a costa de la libertad individual y la diversidad humana.
-The Great Gatsby,F. Scott Fitzgerald,Classic,1925,Una crítica mordaz de la alta sociedad estadounidense durante los años 20 a través de la historia del misterioso millonario Jay Gatsby y su obsesión por el amor perdido. 
-To Kill a Mockingbird,Harper Lee,Classic,1960,Una poderosa exploración de la justicia racial y la moralidad en el sur de Estados Unidos a través de los ojos de una joven mientras su padre defiende a un hombre negro acusado injustamente de violación.
+Dune,Frank Herbert,Science Fiction,1965,A harsh desert planet where ecology religion politics and power collide around control of spice the most valuable substance in the universe.
+1984,George Orwell,Dystopia,1949,A bleak vision of a totalitarian state defined by mass surveillance propaganda psychological control and the destruction of individual thought.
+Shogun,James Clavell,Historical Fiction,1975,A clash of cultures between East and West as a European sailor navigates samurai honor feudal politics and power struggles in Tokugawa Japan.
+War and Peace,Leo Tolstoy,Classic,1869,A vast exploration of war history philosophy and personal destiny set against Russian society during the Napoleonic invasions.
+The Hobbit,J.R.R. Tolkien,Fantasy,1937,A reluctant hero is drawn into a journey of dragons treasure and courage across Middle earth discovering bravery and friendship along the way.
+The Way of Kings,Brandon Sanderson,Fantasy,2010,An epic tale of war leadership honor and broken people finding purpose in a storm ravaged world ruled by ancient powers.
+Napoleon a Life,Andrew Roberts,Biography,2014,A deeply researched portrait of Napoleon Bonaparte examining his military genius political ambition and lasting impact on Europe.
+Game of Thrones,George R.R. Martin,Fantasy,1996,The first book of A Song of Ice and Fire a brutal struggle for power among noble houses where politics betrayal and ambition unfold in a morally complex medieval world.
+Clash of Kings,George R.R. Martin,Fantasy,1998,The second book of A Song of Ice and Fire a realm fractures into civil war as rival kings rise alliances break and the cost of power grows ever bloodier.
+Storm of Swords,George R.R. Martin,Fantasy,2000,The third book of A Song of Ice and Fire a turning point of war and betrayal marked by shocking consequences shifting loyalties and the collapse of old certainties.
+Storm of War,Andrew Roberts,History,2009,A comprehensive narrative of World War II focusing on strategy leadership decisions and the global consequences of total war.
+The Three Body Problem,Cixin Liu,Science Fiction,2008,A mind bending exploration of first contact scientific uncertainty and humanity’s place in a hostile and indifferent universe.
+Skunk Works,Ben Rich,Non-Fiction,1994,An insider account of secretive aerospace innovation detailing how cutting edge aircraft were developed under extreme pressure and secrecy.
+Hyperion,Dan Simmons,Science Fiction,1989,A richly layered science fiction epic following multiple pilgrims whose stories intersect with time faith and a mysterious alien entity.
+The Fall of Hyperion,Dan Simmons,Science Fiction,1990,A continuation of Hyperion that expands the scope into galactic politics war and destiny as humanity faces forces beyond its control.
+Oppenheimer,Ray Monk,Biography,2012,A nuanced intellectual biography of J Robert Oppenheimer exploring science morality ambition and the burden of creating the atomic bomb.
+Homo Sapiens,Yuval Noah Harari,Non-Fiction,2011,A sweeping narrative of human history from prehistoric times to the present examining how biology culture and technology shaped our species.
+Homo Deus,Yuval Noah Harari,Non-Fiction,2015,An exploration of the future of humanity considering technological advances artificial intelligence and the potential for humans to transcend biological limitations.
+La Catedral del Mar,Ildefonso Falcones,Historical Fiction,2006,A richly detailed narrative set in medieval Barcelona following a serf’s journey toward freedom during the construction of the city’s great cathedral.
+The Dark Forest,Cixin Liu,Science Fiction,2008,The sequel to The Three Body Problem delving deeper into cosmic civilizations existential threats and humanity’s struggle for survival in a hostile universe.
+Death’s End,Cixin Liu,Science Fiction,2010,The final volume of The Three Body trilogy exploring the ultimate fate of humanity and the universe amid advanced technologies and interstellar conflict.
+Metro 2033,Dmitry Glukhovsky,Science Fiction,2005,A post apocalyptic story set in the Moscow metro where survivors face mutant creatures political factions and the struggle for hope in a dark world.
+Jo Ramirez Memoirs of a Racing Man,Jo Ramirez,Biography,2015,The life of Jo Ramirez chronicling his journey from humble beginnings to becoming a key figure in Formula One racing and his reflections on the sport.
+La bailarina de Auschwitz,Edith Eger,Biography,2019,An inspiring story of survival and resilience tracing Edith Eger’s journey from her youth as a dancer through Auschwitz and her later life as a therapist.
+Ender's Game,Orson Scott Card,Science Fiction,1985,A gifted child is trained in a military space academy to lead Earth’s defense against an imminent alien threat testing his strategy intelligence and morality.
+Life of pi,Yann Martel,Fiction,2001,The extraordinary adventure of a young castaway who survives on a lifeboat with a Bengal tiger exploring themes of faith survival and the nature of reality.
+The martian,Andy Weir,Science Fiction,2011,An astronaut is stranded on Mars and must use ingenuity science and determination to survive while awaiting an unlikely rescue.
+Leviathan Wakes,James S A Corey,Science Fiction,2011,The first book of The Expanse series blending political mystery and adventure in a future where humanity has colonized the solar system.
+The lord of the rings,J.R.R. Tolkien,Fantasy,1954,An epic tale of friendship sacrifice and the struggle between good and evil in Middle earth as a diverse group sets out to destroy a powerful ring.
+Lord of the flies,William Golding,Fiction,1954,A group of boys stranded on a deserted island struggle to survive and establish order only to see civilization descend into chaos and savagery.
+The silence of the lambs,Thomas Harris,Thriller,1988,A psychological thriller following a young FBI agent who seeks help from a brilliant but dangerous serial killer to catch another murderer.
+Un mundo feliz,Aldous Huxley,Dystopia,1932,A disturbing vision of a future society where technology social control and genetic engineering create an apparent utopia at the cost of individual freedom.
+The Great Gatsby,F. Scott Fitzgerald,Classic,1925,A sharp critique of American high society in the 1920s told through the story of the mysterious millionaire Jay Gatsby and his obsession with lost love.
+To Kill a Mockingbird,Harper Lee,Classic,1960,A powerful exploration of racial injustice and morality in the American South seen through the eyes of a young girl whose father defends a falsely accused Black man.
+Kafka on the Shore,Haruki Murakami,Fiction,2002,A surreal and philosophical novel where parallel narratives explore memory identity fate and the boundary between reality and dreams.
+Norwegian Wood,Haruki Murakami,Fiction,1987,A melancholic coming of age story centered on love loss loneliness and emotional growth in 1960s Japan.
+The Wind Up Bird Chronicle,Haruki Murakami,Fiction,1994,A mysterious journey blending the mundane and the surreal as a man searches for his missing wife and uncovers hidden histories.
+1Q84,Haruki Murakami,Fiction,2009,A sprawling alternate reality novel involving parallel worlds cults love and the fragility of truth.
+Hard Boiled Wonderland and the End of the World,Haruki Murakami,Science Fiction,1985,A dual narrative mixing cyberpunk elements consciousness and a dreamlike exploration of the mind.
+Words of Radiance,Brandon Sanderson,Fantasy,2014,The second Stormlight Archive novel expanding themes of honor leadership trauma and war in a richly developed epic fantasy world.
+Oathbringer,Brandon Sanderson,Fantasy,2017,A continuation of the Stormlight Archive focusing on responsibility memory and the cost of power during large scale conflict.
+Mistborn The Final Empire,Brandon Sanderson,Fantasy,2006,A unique fantasy heist story set in a world ruled by an immortal tyrant where magic is powered by metals.
+The Well of Ascension,Brandon Sanderson,Fantasy,2007,The second Mistborn novel exploring political instability leadership and the unintended consequences of revolution.
+The Hero of Ages,Brandon Sanderson,Fantasy,2008,The conclusion of the Mistborn trilogy where prophecy sacrifice and destiny reshape the fate of the world.
+The Left Hand of Darkness,Ursula K Le Guin,Science Fiction,1969,A groundbreaking exploration of gender politics and humanity set on a planet where inhabitants have no fixed sex.
+The Dispossessed,Ursula K Le Guin,Science Fiction,1974,A philosophical science fiction novel examining anarchism capitalism freedom and the meaning of true utopia.
+A Wizard of Earthsea,Ursula K Le Guin,Fantasy,1968,A classic fantasy novel about a young mage learning balance humility and the dangers of power.
+The Tombs of Atuan,Ursula K Le Guin,Fantasy,1971,A darker Earthsea tale focusing on identity faith and liberation within an oppressive religious system.
+Foundation,Isaac Asimov,Science Fiction,1951,A foundational science fiction novel about the preservation of knowledge and the rise and fall of civilizations across a galactic empire.
+Foundation and Empire,Isaac Asimov,Science Fiction,1952,The continuation of the Foundation saga introducing political intrigue military power and unpredictable historical forces.
+Second Foundation,Isaac Asimov,Science Fiction,1953,The conclusion of the original Foundation trilogy exploring hidden influence mental power and long term social engineering.
+Do Androids Dream of Electric Sheep,Philip K Dick,Science Fiction,1968,A philosophical exploration of humanity empathy and artificial intelligence in a post apocalyptic future.
+Neuromancer,William Gibson,Science Fiction,1984,A seminal cyberpunk novel introducing cyberspace artificial intelligence and corporate dominated futures.
+The Forever War,Joe Haldeman,Science Fiction,1974,A military science fiction novel examining the effects of time dilation war trauma and the alienation of soldiers.
+Snow Crash,Neal Stephenson,Science Fiction,1992,A fast paced cyberpunk satire blending virtual reality linguistics ancient mythology and information control.
+Solaris,Stanislaw Lem,Science Fiction,1961,A psychological science fiction novel exploring consciousness memory and the limits of human understanding when scientists encounter a mysterious sentient planet.
+Blindsight,Peter Watts,Science Fiction,2006,A hard science fiction novel examining consciousness intelligence and alien life through a first contact mission gone deeply wrong.
+Children of Time,Adrian Tchaikovsky,Science Fiction,2015,An epic tale of human survival and evolution as a new civilization of intelligent spiders rises on a distant planet.
+The Moon Is a Harsh Mistress,Robert A Heinlein,Science Fiction,1966,A revolutionary science fiction novel about rebellion political systems and self governance on a lunar colony.
+The Man in the High Castle,Philip K Dick,Science Fiction,1962,An alternate history where the Axis powers won World War II exploring reality power and fractured identities.
+The Name of the Wind,Patrick Rothfuss,Fantasy,2007,A lyrical epic fantasy following a gifted young man recounting his rise from poverty to legend through magic music and knowledge.
+The Wise Man’s Fear,Patrick Rothfuss,Fantasy,2011,A continuation of Kvothe’s journey deepening themes of myth identity and the cost of power.
+The Blade Itself,Joe Abercrombie,Fantasy,2006,A grim dark fantasy novel deconstructing heroism morality and violence through morally complex characters.
+The Lies of Locke Lamora,Scott Lynch,Fantasy,2006,A fantasy heist story centered on friendship deception and survival in a corrupt city ruled by power and crime.
+The Road,Cormac McCarthy,Post Apocalyptic,2006,A stark and haunting journey of a father and son through a devastated world exploring love morality and survival.
+Station Eleven,Emily St John Mandel,Science Fiction,2014,A reflective post apocalyptic novel weaving together art memory and human connection after a global pandemic.
+The Stand,Stephen King,Post Apocalyptic,1978,An epic confrontation between good and evil following the collapse of civilization due to a deadly pandemic.
+The Stranger,Albert Camus,Philosophy,1942,A philosophical novel exploring absurdity alienation and the emotional detachment of a man facing society’s moral expectations.
+The Plague,Albert Camus,Philosophy,1947,An allegorical novel about human resilience solidarity and moral responsibility during a deadly epidemic.
+Thus Spoke Zarathustra,Friedrich Nietzsche,Philosophy,1883,A philosophical work exploring the death of God the creation of values and the ideal of the overman.
+The Book of the New Sun,Gene Wolfe,Science Fiction,1980,A dense and literary science fiction saga set in a dying future blending memory myth and unreliable narration.
+The Left Hand of Darkness Revisited,Ursula K Le Guin,Science Fiction,1995,A reflective return to the world of Gethen expanding on themes of gender politics and cultural understanding.
+The Forever Peace,Joe Haldeman,Science Fiction,1997,A future war novel exploring virtual reality neuroscience and the psychological cost of conflict.
+American Gods,Neil Gaiman,Fantasy,2001,A modern myth blending ancient gods with contemporary America exploring belief identity and cultural change.
+Neverwhere,Neil Gaiman,Fantasy,1996,A dark urban fantasy where a hidden London reveals forgotten people magic and the power of stories.
+The Peripheral,William Gibson,Science Fiction,2014,A near future cyberpunk thriller examining technology power and alternate timelines in a world shaped by corporate control.
+Altered Carbon,Richard K Morgan,Science Fiction,2002,A noir infused science fiction novel exploring identity mortality and consciousness in a future where bodies are interchangeable.
+Roadside Picnic,Arkady and Boris Strugatsky,Science Fiction,1972,A philosophical science fiction story about humanity’s encounter with incomprehensible alien technology and its consequences.
+The Fellowship of the Ring,J.R.R. Tolkien,Fantasy,1954,The first volume of The Lord of the Rings where a humble hobbit begins a perilous journey to destroy a powerful ring and confront an ancient evil.
+The Two Towers,J.R.R. Tolkien,Fantasy,1954,The second volume of The Lord of the Rings following divided companions as war spreads across Middle earth and darkness grows stronger.
+The Return of the King,J.R.R. Tolkien,Fantasy,1955,The final volume of The Lord of the Rings depicting the last stand against evil and the fulfillment of a long and costly quest.
+The Silmarillion,J.R.R. Tolkien,Fantasy,1977,A mythological history of Middle earth detailing the creation of the world ancient wars and the origins of elves men and dark powers.
+Dune Messiah,Frank Herbert,Science Fiction,1969,A continuation of Dune exploring the consequences of prophecy power and the burden of leadership in a galaxy shaped by religion and politics.
+Children of Dune,Frank Herbert,Science Fiction,1976,The third Dune novel focusing on legacy transformation and the long term consequences of absolute power.
+A Fire Upon the Deep,Vernor Vinge,Science Fiction,1992,A far future space opera involving zones of intelligence ancient threats and the struggle to prevent a galaxy wide catastrophe.
+The Forever War Sequel,Joe Haldeman,Science Fiction,1983,A continuation exploring the psychological and societal aftermath of interstellar war and time displacement.
+Old Man’s War,John Scalzi,Science Fiction,2005,An accessible military science fiction novel where elderly humans are recruited to fight alien wars using enhanced bodies.
+Red Mars,Kim Stanley Robinson,Science Fiction,1992,A detailed and realistic portrayal of the colonization of Mars blending science politics and human ambition.
+The Martian Chronicles,Ray Bradbury,Science Fiction,1950,A poetic series of stories about humanity’s exploration and colonization of Mars and its moral consequences.
+I Robot,Isaac Asimov,Science Fiction,1950,A collection of interconnected stories examining artificial intelligence ethics and the famous Three Laws of Robotics.
+Ringworld,Larry Niven,Science Fiction,1970,A classic hard science fiction novel centered on the exploration of a massive artificial ring structure built around a star.
+The Hitchhiker’s Guide to the Galaxy,Douglas Adams,Science Fiction,1979,A comedic science fiction adventure blending absurdity philosophy and cosmic randomness.
+Fahrenheit 451,Ray Bradbury,Dystopia,1953,A dystopian novel about censorship conformity and a future where books are outlawed and burned.
+The Shadow of the Wind,Carlos Ruiz Zafón,Fiction,2001,A literary mystery set in post war Barcelona centered on forgotten books secrets and lost love.
+The Roadside Prophet,Herman Hesse,Fiction,1922,A philosophical journey exploring self discovery spirituality and the conflict between individual desire and societal norms.
+Siddhartha,Hermann Hesse,Philosophy,1922,A spiritual novel following a man’s quest for enlightenment and inner peace outside traditional religion.
+The Call of Cthulhu,H P Lovecraft,Horror,1928,A cosmic horror story introducing ancient incomprehensible beings and humanity’s insignificance in the universe.
+At the Mountains of Madness,H P Lovecraft,Horror,1936,A chilling Antarctic expedition uncovers evidence of an ancient alien civilization and forbidden knowledge.
+The Expanse Babylon’s Ashes,James S A Corey,Science Fiction,2016,A later Expanse novel depicting political collapse interplanetary war and the cost of revolution.
+The Expanse Persepolis Rising,James S A Corey,Science Fiction,2017,A shift in power as a new authoritarian force emerges to dominate humanity across the stars.
+The Time Machine,H G Wells,Science Fiction,1895,A foundational science fiction novel exploring time travel evolution and the distant future of humanity.
+Brave New World Revisited,Aldous Huxley,Dystopia,1958,A non fiction reflection expanding on the themes of Brave New World and modern mechanisms of social control.
